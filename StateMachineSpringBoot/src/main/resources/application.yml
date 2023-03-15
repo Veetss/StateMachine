@@ -12,7 +12,7 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: vittoria.vassarotti@proton.me
+    username: email@email.com
     password: Password!
     properties:
       mail:
